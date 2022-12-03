@@ -1,0 +1,21 @@
+#tituloPrincipal{
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
+}
+
+.titulo{
+    display: flex;
+    justify-content: end;
+}
+
+h1{
+    color: red;
+}
+
+img{
+    height: 600px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+}
